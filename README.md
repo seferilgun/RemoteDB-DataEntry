@@ -15,7 +15,7 @@ This project showcases a basic PHP web application that allows users to add new 
 ## Usage
 
 1. Clone the repository to your local machine.
-2. Set up a remote MySQL database and update the connection details in `veri_ekle.php`.
+2. Set up a remote MySQL database and update the connection details in `add_data.php`.
 3. Deploy the project on a web server with PHP support.
 4. Access the application through your web browser and start adding data to the remote database.
 
